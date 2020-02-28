@@ -1,2 +1,2 @@
-hello world 
-welcome to bash and git commands
+hello world !
+to study bash commands 
