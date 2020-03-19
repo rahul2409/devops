@@ -1,2 +1,3 @@
-hello world !
-to study bash commands 
+hello world file modified and updated 
+to learn bash commands on ubuntu and git 
+d
